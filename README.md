@@ -1,16 +1,14 @@
-# MyScratchProjects
+# BestFriend-LyricAnimationScratch
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Scratch](https://img.shields.io/badge/platform-Scratch-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A collection of Scratch creations — music videos, games, and experimental builds — organized in one place.
+An animated music video built in Scratch 3.0 synchronized to **Best Friend** by Rex Orange County — featuring frame-by-frame character animation, lyric-synced scenes, and original sprites and backdrops.
 
 ---
 
-## Projects
-
-### 🎵 Best Friend
+## Project
 
 | | |
 |---|---|
@@ -21,35 +19,11 @@ A collection of Scratch creations — music videos, games, and experimental buil
 | Link | [Play on Scratch](https://scratch.mit.edu/projects/1331722229/) |
 | File | `bestfriendanimasi.sb3` |
 
-An animated story-inspired music video featuring synchronized lyrics, character animation, and scene transitions.
-
-### 🎮 Games
-
-| Project | Status |
-|---------|--------|
-| _coming soon_ | |
-
-### 🧪 Experiments
-
-| Project | Status |
-|---------|--------|
-| _coming soon_ | |
-
----
-
-## Project Structure
-MyScratchProjects/ ├── README.md └── bestfriendanimasi.sb3
-
-Future projects will be organized into subfolders by category (e.g., `music-videos/`, `games/`, `experiments/`).
-
----
-
 ## How to Play
 
-1. **Online:** Visit [scratch.mit.edu/projects/1331722229/](https://scratch.mit.edu/projects/1331722229/)
-2. **Offline:** Download the `.sb3` file, open [scratch.mit.edu](https://scratch.mit.edu), click **File → Load from your computer**, and select the file
+**Online:** Visit [scratch.mit.edu/projects/1331722229/](https://scratch.mit.edu/projects/1331722229/)
 
----
+**Offline:** Download `BestFriendAnimation.sb3`, open [scratch.mit.edu](https://scratch.mit.edu), click **File → Load from your computer**, and select the file.
 
 ## Skills Explored
 
@@ -60,14 +34,11 @@ Future projects will be organized into subfolders by category (e.g., `music-vide
 | Storytelling | Narrative-driven project structure |
 | Scratch Scripting | Event-driven programming with Scratch blocks |
 
----
-
-## License
-
-MIT License
-
----
 
 ## About
 
-Built with Scratch 3.0 as a creative outlet for music visualization, animation, and game design.
+Built with Scratch 3.0 as a creative outlet for music visualization and animation.
+
+## License
+
+MIT
